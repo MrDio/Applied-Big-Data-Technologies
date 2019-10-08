@@ -1,16 +1,18 @@
 # Applied-Big-Data-Technologies
-Repo for the lecture "Applied Big Data" at the Hochschule der Bayerischen Wirtschaft (HDBW) created by Prof. Dominik Bösl (mailto:dominik@boesl.org) and [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) 
+Repo for the lecture "Applied Big Data" at the Hochschule der Bayerischen Wirtschaft (HDBW) created by [Prof. Dominik Bösl] (mailto:dominik@boesl.org) and [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) 
 
-[Module Description HS Esslingen](https://www.hs-esslingen.de/fileadmin/media/Fakultaeten/it/FAKULTAET/Studiengaenge/Modulhandbuecher/Wahlfachmodul/HE-IT_Modulhandbuch-Wahlfachmodul-_Wahlpflichtfaecher_SWB_TIB_WKB_2019-02-15.pdf)</br>
+[Module Description]()</br>
 
-Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-AI-Technologies/wiki) for detailed Information. First start with the chapters and intro to NN and DL.
+Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki) for detailed Information. First start with the chapters and intro to NN and DL.
 
-[Chapter0: Intro Lecture and AIM]()</br>
-[Chapter1: Web Crawling]()</br>
-[Chapter2: Big Data with D3JS]()</br>
-[Development-Sprint 1:]()</br>
+[Chapter0: Intro Lecture and AIM](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/0.1-Aims-and-Objectives)</br>
+[Chapter1: Web Crawling](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/1.-Web-Crawler)</br>
+[Chapter2: Big Data with D3JS](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/2.-Big-Data-with-d3js)</br>
+[Development-Sprints in slack]()</br>
+
 
 [Appendix: Data Driven Documents](https://github.com/d3/d3)</br>
+[Appendix: Applied Big Data Slack](applied-big-data.slack.com)</br>
 
 Thanks to our contributors:
 </br>
