@@ -8,11 +8,9 @@ Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-Big-Data-Techno
 [Chapter0: Intro Lecture and AIM](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/0.1-Aims-and-Objectives)</br>
 [Chapter1: Web Crawling](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/1.-Web-Crawler)</br>
 [Chapter2: Big Data with D3JS](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/2.-Big-Data-with-d3js)</br>
-[Development-Sprints in slack]()</br>
-
+[Development-Sprints in slack](applied-big-data.slack.com))</br>
 
 [Appendix: Data Driven Documents](https://github.com/d3/d3)</br>
-[Appendix: Applied Big Data Slack](applied-big-data.slack.com)</br>
 
 Thanks to our contributors:
 </br>
