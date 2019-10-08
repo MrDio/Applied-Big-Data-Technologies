@@ -1,5 +1,5 @@
 # Applied-Big-Data-Technologies
-Repo for the lecture "Applied Big Data" at the Hochschule der Bayerischen Wirtschaft (HDBW) created by [Prof. Dominik Bösl] (mailto:dominik@boesl.org) and [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) 
+Repo for the lecture "Applied Big Data" at the Hochschule der Bayerischen Wirtschaft (HDBW) created by [Prof. Dominik Bösl](mailto:dominik@boesl.org) and [Dionysios Satikidis](mailto:dionysios.satikidis@gmail.com) 
 
 [Module Description]()</br>
 
