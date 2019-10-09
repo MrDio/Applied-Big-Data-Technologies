@@ -3,7 +3,7 @@ Repo for the lecture "Applied Big Data" at the Hochschule der Bayerischen Wirtsc
 
 [Module Description]()</br>
 
-Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki) for detailed Information. First start with the chapters and intro to NN and DL.
+Check out the Applied-AI [Wiki](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki) for detailed Information.
 
 [Chapter0: Intro Lecture and AIM](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/0.1-Aims-and-Objectives)</br>
 [Chapter1: Web Crawling](https://github.com/MrDio/Applied-Big-Data-Technologies/wiki/1.-Web-Crawler)</br>
